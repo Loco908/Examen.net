@@ -1,0 +1,30 @@
+C:\Users\alan_\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.csproj.AssemblyReference.cache
+C:\Users\alan_\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan_\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.AssemblyInfoInputs.cache
+C:\Users\alan_\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.AssemblyInfo.cs
+C:\Users\alan_\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\alan_\source\repos\Examen\Examen\bin\Debug\net6.0\Examen.exe
+C:\Users\alan_\source\repos\Examen\Examen\bin\Debug\net6.0\Examen.deps.json
+C:\Users\alan_\source\repos\Examen\Examen\bin\Debug\net6.0\Examen.runtimeconfig.json
+C:\Users\alan_\source\repos\Examen\Examen\bin\Debug\net6.0\Examen.dll
+C:\Users\alan_\source\repos\Examen\Examen\bin\Debug\net6.0\ref\Examen.dll
+C:\Users\alan_\source\repos\Examen\Examen\bin\Debug\net6.0\Examen.pdb
+C:\Users\alan_\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.dll
+C:\Users\alan_\source\repos\Examen\Examen\obj\Debug\net6.0\ref\Examen.dll
+C:\Users\alan_\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.pdb
+C:\Users\alan_\source\repos\Examen\Examen\obj\Debug\net6.0\Examen.genruntimeconfig.cache
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\bin\Debug\net6.0\Examen.exe
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\bin\Debug\net6.0\Examen.deps.json
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\bin\Debug\net6.0\Examen.runtimeconfig.json
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\bin\Debug\net6.0\Examen.dll
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\bin\Debug\net6.0\ref\Examen.dll
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\bin\Debug\net6.0\Examen.pdb
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\obj\Debug\net6.0\Examen.csproj.AssemblyReference.cache
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\obj\Debug\net6.0\Examen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\obj\Debug\net6.0\Examen.AssemblyInfoInputs.cache
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\obj\Debug\net6.0\Examen.AssemblyInfo.cs
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\obj\Debug\net6.0\Examen.csproj.CoreCompileInputs.cache
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\obj\Debug\net6.0\Examen.dll
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\obj\Debug\net6.0\ref\Examen.dll
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\obj\Debug\net6.0\Examen.pdb
+C:\Users\ramir\OneDrive\Documentos\universidad\4to Semestre\net\Examen\Examen\Examen\obj\Debug\net6.0\Examen.genruntimeconfig.cache
